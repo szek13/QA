@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13388" started-at="2018-08-02T14:06:23Z" finished-at="2018-08-02T14:06:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13388" started-at="2018-08-02T14:06:23Z" finished-at="2018-08-02T14:06:37Z">
+      <class name="PracticeTest.DemoQaTest.DemoTextTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:PracticeTest.DemoQaTest.DemoTextTest@ae45eb6]" name="openBrowser" is-config="true" duration-ms="10106" started-at="2018-08-02T14:06:23Z" finished-at="2018-08-02T14:06:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="openHomePage()[pri:0, instance:PracticeTest.DemoQaTest.DemoTextTest@ae45eb6]" name="openHomePage" is-config="true" duration-ms="181" started-at="2018-08-02T14:06:33Z" finished-at="2018-08-02T14:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePage -->
+        <test-method status="PASS" signature="demoTextIsDisplayed()[pri:0, instance:PracticeTest.DemoQaTest.DemoTextTest@ae45eb6]" name="demoTextIsDisplayed" duration-ms="3028" started-at="2018-08-02T14:06:34Z" finished-at="2018-08-02T14:06:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoTextIsDisplayed -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:PracticeTest.DemoQaTest.DemoTextTest@ae45eb6]" name="closebrowser" is-config="true" duration-ms="47" started-at="2018-08-02T14:06:37Z" finished-at="2018-08-02T14:06:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- PracticeTest.DemoQaTest.DemoTextTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
